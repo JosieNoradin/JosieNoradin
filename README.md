@@ -1,4 +1,20 @@
-# Hi, I'm Josie 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F8E4EC,100:EDE5FA&height=160&section=header&text=Josie&fontSize=52&fontColor=715B91&fontAlignY=42&desc=Lead%20Risk%20Engineer%20·%20AI%20·%20Hardware&descSize=16&descAlignY=65&descColor=9A86B8&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <b>Risk Engineer · AI Explorer · Hardware Tinkerer</b>
+  <br/>
+  <i>Building things, breaking things, figuring things out.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-EDE5FA?style=flat-square&labelColor=EDE5FA&color=EDE5FA" />
+  <img src="https://img.shields.io/badge/Risk%20Intelligence-F8E4EC?style=flat-square&labelColor=F8E4EC&color=F8E4EC" />
+  <img src="https://img.shields.io/badge/ESP32%20%26%20IoT-E2F1E9?style=flat-square&labelColor=E2F1E9&color=E2F1E9" />
+</p>
+
+---
 
 **Risk Engineer | AI & Automation | Hardware Tinkerer**
 
