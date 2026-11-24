@@ -37,6 +37,6 @@ I'm a risk engineer working in a project management consultancy company, where o
 
 I read, I write poetry, and I chase new technology down rabbit holes. Some of my experiments stay small; some quietly grow into something bigger.
 
-Almost all of them start with the same quiet question: "But what if we tried this?"
+Almost all of them start with the same question: "But what if we tried this?"
 
 ---
