@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Risk Engineer · AI Explorer · Hardware Tinkerer</b>
+  <b>Lead Risk Engineer · AI Explorer · Hardware Tinkerer</b>
   <br/>
   <i>Building things, breaking things, figuring things out.</i>
 </p>
@@ -16,9 +16,7 @@
 
 ---
 
-**Risk Engineer | AI & Automation | Hardware Tinkerer**
-
-I'm a risk engineer working in a project management consultancy company, where overthinking is practically part of the job description. I'm interested in using technology to make everyday work a little smarter, and I spend my spare time building, breaking and experimenting with things — occasionally at the expense of my sanity and wallet.
+I'm a Lead Risk Engineer working in a project management consultancy company, where overthinking is practically part of the job description. I'm interested in using technology to make everyday work a little smarter, and I spend my spare time building, breaking and experimenting with things — occasionally at the expense of my sanity and wallet.
 
 ### 🔧 Things I'm interested in
 
@@ -30,8 +28,8 @@ I'm a risk engineer working in a project management consultancy company, where o
 
 | Project | Description |
 |---|---|
-| Raebbt | A project risk-management application. |
-| Risk Bot | An experimental agentic AI assistant for risk engineering, combining risk intelligence, workflow automation, persistent context and human-in-the-loop controls. |
+| Raebbet | A risk register app that replaces the Excel spreadsheet, with risk trends over time and a dashboard. *Risk register without the rabbit hole.* |
+| [Assistant Risk Agent](https://github.com/JosieNoradin/assistant-risk-agent) | An agentic AI assistant for risk engineering, combining risk intelligence, workflow automation, persistent context and human-in-the-loop controls. |
 | Borneo Fire Watch | A satellite-data-based fire monitoring and alerting experiment. |
 | ESP32 Projects | IoT, DIY electronics and microcontroller programming. |
 
